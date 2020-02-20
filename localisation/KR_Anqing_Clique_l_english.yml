@@ -47,30 +47,30 @@ anq_qing_name:0 "청"
 anq_ally_name:0 "동맹"
 
 ## Dynamic Modifiers ##
-ANQ_credibility_dynamic_modifier:0 "£anq_credibility Credibility of §MChen Tiaoyuan§!\n§W--------------\n§!§gWith the old League of Eight Provinces in ruin and anti-concessionist rhetoric running rampant, Chen Tiaoyuan has successfully pushed himself forward as a beacon for the movement in China. Those that enabled his rise however could just as easily let him fall should he betray their interests. Nonetheless, Chen Tiaoyuan knows very well that following their every wish will lead to an Anqing without the resources necessary to bring about this liberation of China.§!"
+ANQ_credibility_dynamic_modifier:0 "£anq_credibility 믿을 만한 §MChen Tiaoyuan§!\n§W--------------\n§!§g오래된 팔성연합은 무너지고 반연성주의자들의 목소리는 걷잡을 수 없을 때, Chen Tiaoyuan은 스스로 중국 내 운동의 선봉장이 되는 데 성공했습니다. 이는 그가 부상할 수 있도록 했지만, 믾은 이해관계에 얽혀있는 만큼 그는 쉽게 몰락할 수 있었습니다. 그럼에도 불구하고, Chen Tiaoyuan은 모두의 바람을 따른다면 필요한 자원 없이도 해방된 중국을 안칭에 가져올 수 있음을 잘 알고 있습니다.§!"
 
 ## Companies ##
 longhai_railway:0 "롱하이 철도"
 
 ## Flags ##
-ANQ_peace:0 "Brought peace to the Five Provinces"
-ANQ_chen_alone:0 "Anqing stands independent"
-ANQ_is_proqing:0 "Qing supported Anqing in the League War"
-ANQ_is_projapan:0 "Fengtian supported Anqing in the League War"
-ANQ_hostile_japan:0 "Is hostile with Japan"
-FNG_hostile:0 "Is hostile with Fengtian"
-ANQ_hostile_qing:0 "Is hostile with Qing"
-ANQ_is_reconstructing:0 "Is already completing a reconstruction project"
+ANQ_peace:0 "5개의 성에 평화를 가져오다"
+ANQ_chen_alone:0 "안칭이 독립하다"
+ANQ_is_proqing:0 "청이 연맹 전쟁에서 안칭을 지원하다"
+ANQ_is_projapan:0 "봉천 정부가 연맹 전쟁에서 안칭을 지원하다"
+ANQ_hostile_japan:0 "일본과 적대 관계에 있다"
+FNG_hostile:0 "봉천 정부와 적대 관계에 있다"
+ANQ_hostile_qing:0 "청과 적대 관계에 있다"
+ANQ_is_reconstructing:0 "재건 프로젝트를 이미 완료하다"
 ANQ_abandons_reclamation:0 "Anqing has abandoned participation in the Reclamation War."
 ANQ_commits_reclamation:0 "Anqing has committed to participating in the Reclamation War."
 ANQ_reclamation_decided:0 "Anqing has decided whether or not to participate in the Reclamation War."
-ANQ_with_zhili:0 "Anqing stands with the Zhili Republic"
-ANQ_with_feds:0 "Anqing stands with the Federalists"
+ANQ_with_zhili:0 "안칭이 직예 공화국의 편에 서다"
+ANQ_with_feds:0 "안칭이 연성주의자들의 편에 서다"
 
 ANQ_fngjap_reconstruction_plan:0 "Fengtian and Japan have committed to a comprehensive reconstruction plan"
 ANQ_fng_undecided_strategy:0 "Fengtian has not yet decided its strategy"
 ANQ_feng_aid_undecided:0 "Fengtian aid for reconstruction is undecided"
-ANQ_no_reconstruction_aid:0 "Fengtian has denied us aid"
+ANQ_no_reconstruction_aid:0 "봉천 정부가 우리의 원조를 거부하다"
 
 ## Tooltips ##
 anq_50_army_xp_tt:0 "§Y50§! £army_experience"
