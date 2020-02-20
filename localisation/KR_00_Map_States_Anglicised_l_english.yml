@@ -7,8 +7,8 @@
 ### This applied to bother lower and upper case versions of these characters                                                    ###
 ###################################################################################################################################
 
-STATE_1:0 "Corsica"
-STATE_2:0 "Latium"
+STATE_1:0 "코르시카"
+STATE_2:0 ""
 STATE_3:0 "Swiss Plateau"
 STATE_4:0 "Lower Austria"
 STATE_5:0 "East Prussia"
